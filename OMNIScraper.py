@@ -1,8 +1,3 @@
-# https://omnianalytics.io/2018/08/28/ebay-web-scrape-tutorial/
-
-
-# <h3 class="s-item__title" role="text">Super Mario Sunshine - Gamecube Nintendo Game</h3>
-# <span class="s-item__price">$12.50</span>
 import os
 from bs4 import BeautifulSoup
 import requests
